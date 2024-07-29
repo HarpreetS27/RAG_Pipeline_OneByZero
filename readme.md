@@ -1,4 +1,4 @@
-# 🧠 OneByZero RAG using NVIDIA
+# 🧠 OneByZero RAG using NVIDIA Inferencing API
 
 Streamlit application for PDF-based Retrieval-Augmented Generation (RAG) using Nvidia + LangChain. The app uses `meta / 
 llama3-70b-instruct` model and `FAISS` as vector database under the hood.
