@@ -57,3 +57,8 @@ This application allows users to upload a PDF, process it, and then ask question
 
     ```bash
     streamlit run app.py
+
+
+## Architecture
+
+![Architecture Diagram](flow_diagram.png)
